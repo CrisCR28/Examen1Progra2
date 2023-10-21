@@ -1,0 +1,7 @@
+C:\Users\Cristofer\Desktop\Examen1Cristofer\bin\Debug\Examen1Cristofer.exe.config
+C:\Users\Cristofer\Desktop\Examen1Cristofer\bin\Debug\Examen1Cristofer.exe
+C:\Users\Cristofer\Desktop\Examen1Cristofer\bin\Debug\Examen1Cristofer.pdb
+C:\Users\Cristofer\Desktop\Examen1Cristofer\obj\Debug\Examen1Cristofer.csproj.AssemblyReference.cache
+C:\Users\Cristofer\Desktop\Examen1Cristofer\obj\Debug\Examen1Cristofer.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\Desktop\Examen1Cristofer\obj\Debug\Examen1Cristofer.exe
+C:\Users\Cristofer\Desktop\Examen1Cristofer\obj\Debug\Examen1Cristofer.pdb
